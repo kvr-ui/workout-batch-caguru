@@ -19,7 +19,7 @@ import {
  */
 
 const FLOW_WEBHOOK_URL = import.meta.env.VITE_ZOHO_FLOW_WEBHOOK_URL || "";
-const LEAD_SOURCE = import.meta.env.VITE_LEAD_SOURCE || "workout-batch-caguru";
+const LEAD_SOURCE = import.meta.env.VITE_LEAD_SOURCE || "CAGURU WB";
 
 const GROUP_OPTIONS = ["Group 1", "Group 2", "Both Groups", "Unit 2D"];
 

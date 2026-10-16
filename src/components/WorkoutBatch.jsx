@@ -64,7 +64,7 @@ const PRACTICE_IMAGES = [
   // { type: "image", src: "/lp/workout-batch/practice-1.jpg", caption: "Student name" },
 ];
 
-const SHOW_PLACEHOLDERS = import.meta.env.DEV;
+const SHOW_PLACEHOLDERS = false;
 
 /* ── Design tokens ── */
 const INK = "#06140F";
